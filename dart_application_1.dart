@@ -14,6 +14,10 @@ void main(List<String> arguments) {
     print('$name is not adult');
   }
   print('counting to 5');
+  for(int i=1;i<=5;i++)
+  {
+    print(i);
+  }
   
   int add(int a,int b)
   {
